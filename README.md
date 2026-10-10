@@ -10,9 +10,9 @@ Your apps and systems live here, along with their documentation, simply explaine
 
 <br>
 
-| App | What it is | Docs |
-| --- | --- | --- |
-| [**TutorLink**](#) | Tutorial System | [Read the guide](#) |
+| App | What it is | Status | Docs |
+| --- | --- | --- | --- |
+| [**TutorLink**](#) | Tutorial System | <img src="https://img.shields.io/badge/Live-D4AF37?style=flat-square" alt="Live" /> | [Read the guide](#) |
 
 <br>
 
