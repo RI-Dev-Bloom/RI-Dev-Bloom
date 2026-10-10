@@ -1,27 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=7C9885&center=true&vCenter=true&width=420&lines=Hey%2C+I'm+Dylan.;I+build+things+for+the+web.;Your+apps+live+here." alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,60:0B1F3A,100:D4AF37&height=220&section=header&text=RI-Dev-Bloom&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Your%20apps%20and%20systems%20live%20here&descColor=D4AF37&descSize=18&descAlignY=58&animation=fadeIn" alt="RI-Dev-Bloom" />
 
 </div>
 
 <br>
 
-```text
-~/dylan-gorrah $ ls apps/
-```
-
-### Your apps live here
-
-| App | What it is |
-| --- | --- |
-| [**TutorLink**](#) | Tutorial System |
+Your apps and systems live here, along with their documentation, simply explained.
 
 <br>
 
-```text
-~/dylan-gorrah $ _
-```
+| App | What it is | Docs |
+| --- | --- | --- |
+| [**TutorLink**](#) | Tutorial System | [Read the guide](#) |
+
+<br>
 
 <div align="center">
-<sub>React · TypeScript · Next.js · Supabase</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=0B1F3A&center=true&vCenter=true&width=460&height=60&lines=Documentation%2C+Systems%2C+Apps" alt="Documentation, Systems, Apps" />
 </div>
