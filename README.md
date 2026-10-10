@@ -17,5 +17,5 @@ Your apps and systems live here, along with their documentation, simply explaine
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=0B1F3A&center=true&vCenter=true&width=460&height=60&lines=Documentation%2C+Systems%2C+Apps" alt="Documentation, Systems, Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&background=0B1F3A&center=true&vCenter=true&width=460&height=60&lines=Documentation;Systems;Apps" alt="Documentation, Systems, Apps" />
 </div>
